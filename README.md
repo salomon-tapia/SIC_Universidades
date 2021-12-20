@@ -65,6 +65,7 @@ UV campus veracruz
 
 
 
+<<<<<<< Updated upstream
 Hola Soy José Alfonso , quiero contribuir!!
 
 ---------------------------------------------
@@ -76,3 +77,6 @@ UV campus Veracruz
 
 Hola Soy Miguel Sadhit UV 
 
+=======
+Hola Soy José Alfonso , quiero contribuir!!
+>>>>>>> Stashed changes
